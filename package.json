@@ -12,8 +12,12 @@
     "react-dom": "^19.1.0"
   },
   "devDependencies": {
+    "@babel/core": "^7.28.0",
+    "@babel/plugin-transform-flow-strip-types": "^7.27.1",
+    "@parcel/transformer-svg-jsx": "^2.15.4",
     "@types/react": "^19.0.0",
     "@types/react-dom": "^19.0.0",
+    "flow-bin": "^0.275.0",
     "parcel": "^2.14.0"
   }
 }

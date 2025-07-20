@@ -6,3 +6,8 @@ html {
   justify-content: center;
   height: 100%;
 }
+
+.status-title {
+  font-size: 72px;
+  color: aqua;
+}
